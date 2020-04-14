@@ -8,4 +8,4 @@ DiSMed is a de-identification methodology for Spanish medical texts based on Nam
 
 Data access can be requested at  <a href="http://bimcv.cipf.es/">BIMCV</a>.
 
-Preprint is available at <a href="https://www.medrxiv.org/content/10.1101/2020.04.09.20058958v1">medRxiv</a>: De-identifying Spanish medical texts - Named Entity Recognition applied to radiology reports.
+Preprint is available at <a href="https://www.medrxiv.org/content/10.1101/2020.04.09.20058958v1">medRxiv: De-identifying Spanish medical texts - Named Entity Recognition applied to radiology reports.</a>
