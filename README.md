@@ -2,8 +2,8 @@
 <a href="http://bimcv.cipf.es/"><img src="https://github.com/BIMCV-CSUSP/DiSMed/blob/master/images/logoinst.png?raw=true"</a><a href="http://ceib.san.gva.es"></a><a href="https://deephealth-project.eu/"><img src="https://github.com/BIMCV-CSUSP/DiSMed/blob/master/images/DEEPHEALTH.png" width="240px" class="center-block" style=" display: inline-block;"></a></div>
 <br></br>
 
-<div class="clearfix" style="float:right">
-<a href="https://www.medrxiv.org/content/10.1101/2020.04.09.20058958v1"><img src="https://github.com/BIMCV-CSUSP/DiSMed/blob/master/images/dismed_qr.png?raw=true" height="200"></a></div>
+<div class="clearfix" >
+<a href="https://www.medrxiv.org/content/10.1101/2020.04.09.20058958v1"><img src="https://github.com/BIMCV-CSUSP/DiSMed/blob/master/images/dismed_qr.png?raw=true" height="200" align="right"></a></div>
 
 # DiSMed - De-identifying Spanish Medical texts
 
