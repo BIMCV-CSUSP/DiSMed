@@ -11,6 +11,6 @@ This folder contains python code used in DiSMed. The following pipeline was impl
 * First, radiology reports were pre-annotated with [pre_annotator.py](https://github.com/BIMCV-CSUSP/DiSMed/blob/master/scripts/pre_annotator.py). The pre-annotated output files need to be manually corrected and tags other than "NAME" and "INST" have to be incorporated.
 * The manually annotated files were then randomized with [synthetic_dataset.py](https://github.com/BIMCV-CSUSP/DiSMed/blob/master/scripts/synthetic_dataset.py). This step can be skipped if you don't need to train your models with synthetic data.
 * Spacy **needs to be added**
-* Then, to train with [Gillaume Genthial's](https://github.com/guillaumegenthial/tf_ner) networks, the annotation was converted into IOBES tagging scheme[iobes_tagging.py](https://github.com/BIMCV-CSUSP/DiSMed/blob/master/scripts/iobes_tagging.py).
+* Then, to train with [Gillaume Genthial's](https://github.com/guillaumegenthial/tf_ner) networks, the annotation was converted into IOBES tagging scheme with [iobes_tagging.py](https://github.com/BIMCV-CSUSP/DiSMed/blob/master/scripts/iobes_tagging.py).
 * In case a IOBES tagged file needs to be converted into an html-like tagging scheme, [iobes_to_html.py](https://github.com/BIMCV-CSUSP/DiSMed/blob/master/scripts/iobes_to_html.py) is available.
 
