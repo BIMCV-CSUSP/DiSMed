@@ -1,0 +1,43 @@
+<NAME>Lopez</NAME> <NAME>Perez</NAME> <NUM>1234321</NUM>
+RM cerebral
+
+
+control metástasis tratada con radioterapia. 
+
+Por problema técnico no se dispone de imágenes previas en el momento de la realización del informe (Dr <NAME>Marin</NAME>).
+Comparo con informe de <FECHA>marzo</FECHA> <FECHA>de</FECHA> <FECHA>2012</FECHA> de resonancia cerebral.
+<CAB>Informe:</CAB> Hipoplasia de arteria vertebral derecha siendo la izquierda de calibre normal, observando la arteria basilar elongada, con un arqueamiento de convexidad derecha.
+Arterias cerebrales posteriores con un aspecto también   arrosariado, con muy corto recorrido en el lado derecho, hallazgo en relación con la isquemia descrita anteriormente.
+Leucopatía periventricular, con imágenes de lesiones lacunares de antigua instauración. 
+Cambios involutivos en concordancia con la edad del   paciente, de predominio fundamentalmente cortical.
+
+----------------------------------------------
+<FECHA>5</FECHA> <FECHA>de</FECHA> <FECHA>MARZO</FECHA> <FECHA>de</FECHA> <FECHA>2014</FECHA>
+
+
+RM CRANEAL 
+
+Motivo de consulta
+	Muy probable demencia incipiente.
+
+<CAB>Técnica</CAB>
+Estudio RM craneal en los planos axial, coronal y sagital mediante secuncias potenciadas en T1 y T2. 
+Secuencias realizadas:
+Sagital SE T1
+Axial FSE T2, fast FLAIR
+Coronal FLAIR T1
+Axial EPI difusión  (B=1000)
+<CAB>Hallazgos</CAB>
+Cuerpo calloso, silla turca y quiasma normales.
+Silla turca vacia.
+Señal de vacío normal de las estructuras vasculares intracraneales que traduce la presencia de flujo.
+Cuerpo calloso y quiasma normales.
+
+<CAB>EN</CAB> <CAB>CONCLUSIÓN:</CAB>
+Signos de atrofia de predominio temporal y de atrofia de hipocampo.
+Hallazgos compatibles con área de gliosis sobre infarto isquémico antiguo parietal izquierdo.
+
+				  Fdo.: Dra. <NAME>INES</NAME> <NAME>ARANZUBIA</NAME> <NAME>DEL</NAME> <NAME>BOSQUE</NAME>
+				Médico Radiólogo
+				<LOC>ALICANTE</LOC> 
+				Cdo. nº.: <NUM>01-2345432</NUM>

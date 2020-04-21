@@ -1,0 +1,42 @@
+NOM FACULTATIU / NOMBRE FACULTATIVO
+<NAME>ALBERTO</NAME> <NAME>RODRIGUEZ</NAME> <NAME>MOYA</NAME>
+METGE PETICIONARI / MÉDICO PETICIONARIO
+<NAME>GUTIERREZ</NAME> <NAME>MORENO</NAME> , <NAME>DAVID</NAME>
+PROVES INFORMADES / PRUEBAS INFORMADAS
+RM CEREBRO Y RM VASCULAR CEREBRO, <FECHA>03/03/2013</FECHA>
+<CAB>VALORACIÓ</CAB> / <CAB>VALORACIÓN</CAB>
+Información clínica: Paciente con fístula dural.
+<CAB>Técnica:</CAB>
+Resonancia magnética cerebral con múltiples planos y secuencias sin y con contraste intravenoso (Dotarem
+0,2 mililitros/kilo).
+Angio-RM de los troncos supraaórticos, polígono de Willis y de los senos venosos.
+<CAB>Hallazgos:</CAB>
+Se compara con previa de <FECHA>noviembre</FECHA> <FECHA>de</FECHA> <FECHA>2005</FECHA> apreciando  ligera reducción en el tamaño del tumor de quiasma-hipotálamo, con patrón semiologico similar.
+Dimensiones: Plano axial + contraste (imagen 64) T de 57 mm, AP de 28 mm.  Plano sagital + cte (imagen 26) CC de 28 mm
+Estabilidad del nodulo metastasico en agujero de Luschka derecho, de 5mm.
+Resto sin cambios.
+<INST>Hospital</INST> <INST>General</INST> <INST>Castellón</INST>
+DATA INF
+FECHA INF <FECHA>viernes</FECHA> <FECHA>12</FECHA> <FECHA>de</FECHA> <FECHA>mayo</FECHA> <FECHA>de</FECHA> <FECHA>2013</FECHA>
+PRIMER COGNOM
+PRIMER APELLIDO <NAME>COVISA</NAME>
+SEGON COGNOM
+SEGUNDO APELLIDO <NAME>BAÑOLAS</NAME>
+NOM
+NOMBRE <NAME>MOISES</NAME>
+SIP
+SIP <NUM>23456</NUM> NÚM.D'HISTÒRIA CLÍNICA
+NÚM. DE HISTORIA CLÍNICA <NUM>345678</NUM>
+DATA NAIXEMENT
+FECHA NACIMIENTO <FECHA>29</FECHA> <FECHA>de</FECHA> <FECHA>agosto</FECHA> <FECHA>de</FECHA> <FECHA>1968</FECHA>
+SEXE
+SEXO
+M X F
+DIRECCIÓ
+DIRECCION <DIR>PLAÇA</DIR> <DIR>VALENCIA</DIR> <DIR>-</DIR> <DIR>2</DIR> <DIR>puerta</DIR> <DIR>4</DIR> <DIR>46010</DIR>
+<LOC>ELCHE</LOC>
+FULL D'INFORME DIAGNÒSTICS PER LA IMATGE / HOJA DE INFORME
+INFORME DIAGNÓSTICOS POR LA IMAGEN de <NAME>FRANCISCO</NAME> <NAME>JAVIER</NAME> <NAME>FERRE</NAME> <NAME>TALLANT</NAME>
+Fecha impresión <FECHA>lunes</FECHA> <FECHA>8</FECHA> <FECHA>de</FECHA> <FECHA>abril</FECHA> <FECHA>de</FECHA> <FECHA>2018</FECHA> 13:30 pág 1 de 1
+<INST>Hospital</INST> <INST>General</INST> <INST>Castellon</INST> ·
+<DIR>C.</DIR> <DIR>Madrid</DIR> <DIR>Km.</DIR> <DIR>1</DIR> <DIR>·</DIR> <DIR>46006</DIR> <LOC>GANDIA</LOC> · Tel. <NUM>36</NUM> <NUM>666</NUM> <NUM>07</NUM> · Fax <NUM>52</NUM> <NUM>278</NUM> <NUM>15</NUM>

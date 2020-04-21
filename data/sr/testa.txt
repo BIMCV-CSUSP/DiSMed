@@ -1,0 +1,20 @@
+Nombre: <NAME>VERONICA</NAME> Apellidos: <NAME>GALVARRO</NAME> <NAME>AZZAROUALI</NAME>
+F.Nacimiento: <FECHA>22/12/1923</FECHA> F.Realización: <FECHA>14/10/2016</FECHA>
+Médico solicitante: <NAME>MATARREDONA</NAME> <NAME>DEL</NAME> <NAME>GAYOSO</NAME> , <NAME>CONCEPCION</NAME> ,
+Centro solicitante: NEUROLOGIA ( <INST>C.S.</INST> <INST>PARE</INST> <INST>JOFRE</INST> ) 
+Exploración solicitada: VASC CEREBRAL
+<NUM>E12343212</NUM>  Número Exploración : <NUM>AC-12321</NUM> 
+
+RM Cerebral
+RM Vascular Cerebral (Willis-TSA)  
+
+<NUM>AC-12321</NUM>
+
+<NAME>GALVARRO</NAME> <NAME>AZZAROUALI</NAME>
+
+Alucinaciones visuales en enero de este año.
+
+Aplanamiento de la hipófisis en el suelo de la silla turca.
+No se evidencian imágenes sospechosas de isquemia o hemorragia intracraneales agudas. Línea media centrada. Amplitud del sistema ventricular y de los surcos cerebrales sin signos de hidrocefalia. 
+Asimetría de ventrículos laterales como variante anatómica.
+Signos inflamatorios nasosinusales destacando la afectación de la vertiente izquierda del seno esfenoidal.
