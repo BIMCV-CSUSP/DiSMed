@@ -4,10 +4,8 @@
 
 # DiSMed - De-identifying Spanish Medical texts
 
-## data
+## models
 
-This folder is divided in two subfolders:
+* dummy_model: An empty spaCy model required to transform a txt file to a json formated spaCy file.
 
-* databases: This folder contains several databases needed by DiSMed
-* models: This folder contains a dummy model and an example model
-* sr: Examples of each data subset
+* example_model: An example spaCy model trained and evaluated with train.json and testa.json, generated with [text_to_json_spacy.py](https://github.com/BIMCV-CSUSP/DiSMed/blob/master/scripts/text_to_json_spacy.py).
