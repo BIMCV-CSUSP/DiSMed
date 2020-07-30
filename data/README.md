@@ -11,3 +11,4 @@ This folder is divided in two subfolders:
 * databases: This folder contains several databases needed by DiSMed
 * models: This folder contains a dummy model and an example model
 * sr: Examples of each data subset
+* text_to_html: Examples to format a plain text file to a file with NERs labels in HTML formart
