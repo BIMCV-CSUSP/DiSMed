@@ -24,3 +24,4 @@ python3 -m spacy train en ../data/models/example_model/ ../data/sr/train.json ..
 ``
 
 * Finally, we can evaluate the best model trained by spaCy with [evaluate_spacy.py](https://github.com/BIMCV-CSUSP/DiSMed/blob/master/scripts/evaluate_spacy.py).
+* Use [spacy_to_hmtl.py](https://github.com/BIMCV-CSUSP/DiSMed/blob/master/scripts/evaluate_spacy.py) to format a plain text file to HTML NERs labels file using a spaCy model.
