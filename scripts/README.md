@@ -18,8 +18,9 @@ This folder contains python code used in DiSMed. The following pipeline was impl
 
 * First, the radiology reports need to be formarted to json spaCy format with [text_to_json_spacy.py](https://github.com/BIMCV-CSUSP/DiSMed/blob/master/scripts/text_to_json_spacy.py). We need to reformat both the training and testa files.
 * Second, train a spaCy model with spaCy CLI interface using the following command:
-``
-python3 -m spacy train en ../data/models/example_model/ ../data/sr/train.json ../data/sr/testa.json -p "ner"
 
 ``
+python3 -m spacy train en ../data/models/example_model/ ../data/sr/train.json ../data/sr/testa.json -p "ner"
+``
+
 * Finally, we can evaluate the best model trained by spaCy with [evaluate_spacy.py](https://github.com/BIMCV-CSUSP/DiSMed/blob/master/scripts/evaluate_spacy.py).
