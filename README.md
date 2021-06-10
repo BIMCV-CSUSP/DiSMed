@@ -7,8 +7,8 @@
 
 # DiSMed - De-identifying Spanish Medical texts
 
-DiSMed is a de-identification methodology for Spanish medical texts based on Named Entity Recognition (NER). It is based on  <a href="https://spacy.io/">spaCy</a> and the networks designed by <a href="https://github.com/guillaumegenthial/tf_ner">Gillaume Genthial</a> implemented on Tensorflow 1. DiSMed includes both the Python code and the curated dataset, available under request under a research use agreement.
+DiSMed is a de-identification methodology for Spanish medical texts based on Named Entity Recognition (NER). It is based on  <a href="https://spacy.io/">spaCy</a> and partially based on the networks designed by <a href="https://github.com/guillaumegenthial/tf_ner">Gillaume Genthial</a> implemented on Tensorflow 1. DiSMed includes both the Python code and the curated dataset, available under request under a research use agreement.
 
 Data access can be requested at  <a href="http://bimcv.cipf.es/">BIMCV</a>.
 
-Preprint is available at <a href="https://www.medrxiv.org/content/10.1101/2020.04.09.20058958v1">medRxiv: De-identifying Spanish medical texts - Named Entity Recognition applied to radiology reports.</a>
+The results obtained are available at <a href="https://doi.org/10.1186/s13326-021-00236-2"> Journal of Biomedical Semantics: De-identifying Spanish medical texts - named entity recognition applied to radiology reports.</a>
